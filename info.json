@@ -1,0 +1,82 @@
+[
+  {
+    "actividad_id": 1,
+    "nombre": "Revisión de informes mensuales",
+    "descripcion": "Revisar y analizar los informes mensuales de ventas",
+    "tipo": "mensual",
+    "fecha_inicio": "2024-06-01T00:00:00.000Z",
+    "fecha_fin": "2024-06-30T00:00:00.000Z",
+    "fecha_creacion": "2024-05-25T23:47:03.000Z",
+    "fecha_actualizacion": "2024-05-25T23:47:03.000Z"
+  },
+  {
+    "actividad_id": 2,
+    "nombre": "Reunión semanal de equipo",
+    "descripcion": "Participar en la reunión semanal del equipo de proyecto",
+    "tipo": "semanal",
+    "fecha_inicio": "2024-06-03T00:00:00.000Z",
+    "fecha_fin": "2024-06-03T00:00:00.000Z",
+    "fecha_creacion": "2024-05-25T23:47:03.000Z",
+    "fecha_actualizacion": "2024-05-25T23:47:03.000Z"
+  },
+  {
+    "actividad_id": 3,
+    "nombre": "Reporte diario de progreso",
+    "descripcion": "Completar el reporte diario de progreso del proyecto",
+    "tipo": "diaria",
+    "fecha_inicio": "2024-06-01T00:00:00.000Z",
+    "fecha_fin": "2024-06-01T00:00:00.000Z",
+    "fecha_creacion": "2024-05-25T23:47:03.000Z",
+    "fecha_actualizacion": "2024-05-25T23:47:03.000Z"
+  },
+  {
+    "actividad_id": 4,
+    "nombre": "Planificación del trimestre",
+    "descripcion": "Planificar las actividades y objetivos del próximo trimestre",
+    "tipo": "mensual",
+    "fecha_inicio": "2024-07-01T00:00:00.000Z",
+    "fecha_fin": "2024-07-31T00:00:00.000Z",
+    "fecha_creacion": "2024-05-25T23:47:03.000Z",
+    "fecha_actualizacion": "2024-05-25T23:47:03.000Z"
+  },
+  {
+    "actividad_id": 5,
+    "nombre": "Revisión semanal de código",
+    "descripcion": "Revisar el código desarrollado durante la semana",
+    "tipo": "semanal",
+    "fecha_inicio": "2024-06-07T00:00:00.000Z",
+    "fecha_fin": "2024-06-07T00:00:00.000Z",
+    "fecha_creacion": "2024-05-25T23:47:03.000Z",
+    "fecha_actualizacion": "2024-05-25T23:47:03.000Z"
+  },
+  {
+    "actividad_id": 6,
+    "nombre": "Actualización del blog",
+    "descripcion": "Escribir y publicar una entrada en el blog de la empresa",
+    "tipo": "mensual",
+    "fecha_inicio": "2024-06-15T00:00:00.000Z",
+    "fecha_fin": "2024-06-15T00:00:00.000Z",
+    "fecha_creacion": "2024-05-25T23:47:03.000Z",
+    "fecha_actualizacion": "2024-05-25T23:47:03.000Z"
+  },
+  {
+    "actividad_id": 7,
+    "nombre": "Revisión de informes mensuales",
+    "descripcion": "Revisar y analizar los informes mensuales de ventas",
+    "tipo": "mensual",
+    "fecha_inicio": "2024-05-27T00:00:00.000Z",
+    "fecha_fin": "2024-06-30T00:00:00.000Z",
+    "fecha_creacion": "2024-05-26T21:13:52.000Z",
+    "fecha_actualizacion": "2024-05-26T21:13:52.000Z"
+  },
+  {
+    "actividad_id": 8,
+    "nombre": "Revisión de informes mensuales",
+    "descripcion": "Revisar y analizar los informes mensuales de ventas",
+    "tipo": "mensual",
+    "fecha_inicio": "2024-06-04T00:00:00.000Z",
+    "fecha_fin": "2024-06-05T00:00:00.000Z",
+    "fecha_creacion": "2024-05-26T21:53:41.000Z",
+    "fecha_actualizacion": "2024-06-04T16:08:14.000Z"
+  }
+]
